@@ -468,8 +468,8 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
-    LOGO = """🤣🤣🤣"""
-              🤣🤣🤣
+    LOGO = """
+             🌎🌎"""
               
     TAMIL_INFO = """
 ஏய் <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
@@ -498,7 +498,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
 
- Now you can earn money on Telegram too.
+  money on Telegram too.
 
  You must have 1 group to earn money by telegram.
  If you have a group, you can earn money by adding our bot to your group.
